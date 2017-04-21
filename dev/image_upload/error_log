@@ -1,0 +1,6 @@
+[22-Mar-2016 14:37:06 UTC] PHP Warning:  move_uploaded_file(images/__5_1x.png): failed to open stream: No such file or directory in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 6
+[22-Mar-2016 14:37:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ03uWK' to 'images/__5_1x.png' in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 6
+[22-Mar-2016 14:37:32 UTC] PHP Notice:  Undefined index: userImage in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 3
+[22-Mar-2016 14:37:55 UTC] PHP Notice:  Undefined index: userImage in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 3
+[22-Mar-2016 14:38:10 UTC] PHP Warning:  move_uploaded_file(images/__5_1x.png): failed to open stream: No such file or directory in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 6
+[22-Mar-2016 14:38:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMnSAj6' to 'images/__5_1x.png' in /home/d28972/public_html/linepuls.ru/dev/image_upload/upload.php on line 6

@@ -1,0 +1,11 @@
+AddDefaultCharset utf-8
+
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/dev/ws.*$
+RewriteCond %{REQUEST_FILENAME} !^/dev/ws/echowsadmin.html.*$
+
+RewriteRule ^(.*)$ index.php

@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/template/css/custom.css" description="@media (max-width: 767px) {" line="61" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90b4ebcf-5721-412e-ace9-aa8372fc2b87" name="Default" comment="" />
+    <ignored path="MVC site.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MVC site" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/user/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9282103" vertical-offset="204" max-vertical-offset="8959">
+              <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.423077" vertical-offset="8282" max-vertical-offset="15725">
+              <caret line="528" column="17" selection-start-line="528" selection-start-column="17" selection-end-line="528" selection-end-column="17" />
+              <folding>
+                <marker date="1492365724985" expanded="true" signature="940:1001" placeholder="SELECT count..countries..." />
+                <marker date="1492365724985" expanded="true" signature="3082:3112" placeholder="SELECT * FRO..zodiac..." />
+                <marker date="1492365724985" expanded="true" signature="4115:4576" placeholder="SELECT * FRO..users..." />
+                <marker date="1492365724985" expanded="true" signature="5041:5066" placeholder="SELECT * FRO..user_search..." />
+                <marker date="1492365724985" expanded="true" signature="5553:5583" placeholder="SELECT * FRO..user_music_genre..." />
+                <marker date="1492365724985" expanded="true" signature="6064:6093" placeholder="SELECT * FRO..user_game_genre..." />
+                <marker date="1492365724985" expanded="true" signature="6569:6598" placeholder="SELECT * FRO..user_film_genre..." />
+                <marker date="1492365724985" expanded="true" signature="7077:7104" placeholder="SELECT * FRO..user_soc_type..." />
+                <marker date="1492365724985" expanded="true" signature="7594:7621" placeholder="SELECT * FRO..user_religion..." />
+                <marker date="1492365724985" expanded="true" signature="8115:8154" placeholder="SELECT * FRO..user_study..." />
+                <marker date="1492365724985" expanded="true" signature="8629:8667" placeholder="SELECT * FRO..user_work..." />
+                <marker date="1492365724985" expanded="true" signature="9187:9220" placeholder="SELECT * FRO..user_type..." />
+                <marker date="1492365724985" expanded="true" signature="9775:9818" placeholder="SELECT * FRO..administration_type..." />
+                <marker date="1492365724985" expanded="true" signature="10353:10455" placeholder="SELECT user_..user_friendship_req..." />
+                <marker date="1492365724985" expanded="true" signature="11449:11543" placeholder="SELECT id FR..user_friendship..." />
+                <marker date="1492365724985" expanded="true" signature="12398:12463" placeholder="SELECT id FR..user_favorite..." />
+                <marker date="1492365724985" expanded="true" signature="12975:13040" placeholder="SELECT id FR..user_respect..." />
+                <marker date="1492365724985" expanded="true" signature="13565:13613" placeholder="select count..user_respect..." />
+                <marker date="1492365724985" expanded="true" signature="13774:13847" placeholder="SELECT lang ..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="15786:15853" placeholder="SELECT * FRO..user_friendship..." />
+                <marker date="1492365724985" expanded="true" signature="16639:16712" placeholder="SELECT name,..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="16836:16895" placeholder="SELECT login..users..." />
+                <marker date="1492365724985" expanded="true" signature="17559:17614" placeholder="SELECT * FRO..user_achievements..." />
+                <marker date="1492365724985" expanded="true" signature="17956:18077" placeholder="SELECT name,..achievements..." />
+                <marker date="1492365724985" expanded="true" signature="19642:19725" placeholder="SELECT name,..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="19858:19940" placeholder="SELECT id_us..user_likes..." />
+                <marker date="1492365724985" expanded="true" signature="20076:20161" placeholder="SELECT id_us..user_dizlikes..." />
+                <marker date="1492365724985" expanded="true" signature="20299:20379" placeholder="SELECT id_us..user_fav..." />
+                <marker date="1492365724985" expanded="true" signature="20516:20585" placeholder="SELECT login..users..." />
+                <marker date="1492365724985" expanded="true" signature="20725:20771" placeholder="SELECT * FRO..user_posts_images..." />
+                <marker date="1492365724985" expanded="true" signature="21311:21353" placeholder="SELECT * FRO..user_likes..." />
+                <marker date="1492365724985" expanded="true" signature="21604:21693" placeholder="SELECT name,..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="21847:21922" placeholder="SELECT login..users..." />
+                <marker date="1492365724985" expanded="true" signature="22661:22706" placeholder="SELECT * FRO..user_dizlikes..." />
+                <marker date="1492365724985" expanded="true" signature="22969:23061" placeholder="SELECT name,..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="23224:23302" placeholder="SELECT login..users..." />
+                <marker date="1492365724985" expanded="true" signature="24090:24130" placeholder="SELECT * FRO..user_fav..." />
+                <marker date="1492365724985" expanded="true" signature="24375:24463" placeholder="SELECT name,..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="24614:24688" placeholder="SELECT login..users..." />
+                <marker date="1492365724985" expanded="true" signature="26744:26783" placeholder="SELECT * FRO..user_draft..." />
+                <marker date="1492365724985" expanded="true" signature="28525:28564" placeholder="SELECT * FRO..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="31456:31486" placeholder="SELECT * FRO..zodiac..." />
+                <marker date="1492365724985" expanded="true" signature="31660:31704" placeholder="SELECT count..countries..." />
+                <marker date="1492365724985" expanded="true" signature="33521:33594" placeholder="SELECT lang ..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="33693:33747" placeholder="SELECT * FRO..users_info..." />
+                <marker date="1492365724985" expanded="true" signature="36443:36469" placeholder="SELECT * FRO..relationship..." />
+                <marker date="1492365724985" expanded="true" signature="36937:36962" placeholder="SELECT * FRO..user_gender..." />
+                <marker date="1492365724985" expanded="true" signature="37342:37367" placeholder="SELECT * FRO..orientation..." />
+                <marker date="1492365724985" expanded="true" signature="37749:37769" placeholder="SELECT * FRO..habits..." />
+                <marker date="1492365724985" expanded="true" signature="38146:38171" placeholder="SELECT * FRO..preferences..." />
+                <marker date="1492365724985" expanded="true" signature="38555:38578" placeholder="SELECT * FRO..countries..." />
+                <marker date="1492365724985" expanded="true" signature="38969:38994" placeholder="SELECT * FRO..user_search..." />
+                <marker date="1492365724985" expanded="true" signature="39373:39403" placeholder="SELECT * FRO..user_music_genre..." />
+                <marker date="1492365724985" expanded="true" signature="39772:39801" placeholder="SELECT * FRO..user_game_genre..." />
+                <marker date="1492365724985" expanded="true" signature="40163:40192" placeholder="SELECT * FRO..user_film_genre..." />
+                <marker date="1492365724985" expanded="true" signature="40557:40584" placeholder="SELECT * FRO..user_soc_type..." />
+                <marker date="1492365724985" expanded="true" signature="40960:40987" placeholder="SELECT * FRO..user_religion..." />
+                <marker date="1492365724985" expanded="true" signature="41371:41410" placeholder="SELECT * FRO..user_study..." />
+                <marker date="1492365724985" expanded="true" signature="41933:41971" placeholder="SELECT * FRO..user_work..." />
+                <marker date="1492365724985" expanded="true" signature="42523:42546" placeholder="SELECT * FRO..user_type..." />
+                <marker date="1492365724985" expanded="true" signature="43457:43490" placeholder="SELECT * FRO..administration_type..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/js/navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5757" max-vertical-offset="6817">
+              <caret line="381" column="36" selection-start-line="381" selection-start-column="36" selection-end-line="381" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="music.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/js/music.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="9.107142" vertical-offset="255" max-vertical-offset="3315">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="audio_player.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/js/audio_player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.892857" vertical-offset="0" max-vertical-offset="8330">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/js/messages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6443">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1472734374635" expanded="false" signature="8122:8134" placeholder="..." />
+                <marker date="1472734374635" expanded="false" signature="8585:8599" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/js/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17181" max-vertical-offset="18224">
+              <caret line="1066" column="3" selection-start-line="1066" selection-start-column="3" selection-end-line="1066" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.142858" vertical-offset="46721" max-vertical-offset="51731">
+              <caret line="2765" column="18" selection-start-line="2765" selection-start-column="18" selection-end-line="2765" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dev/login.php" />
+        <option value="$PROJECT_DIR$/template/css/main.css" />
+        <option value="$PROJECT_DIR$/controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/models/Login.php" />
+        <option value="$PROJECT_DIR$/dev/full-icons-list.php" />
+        <option value="$PROJECT_DIR$/template/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/models/Search.php" />
+        <option value="$PROJECT_DIR$/components/Router.php" />
+        <option value="$PROJECT_DIR$/views/search/index.php" />
+        <option value="$PROJECT_DIR$/controllers/NewsController.php" />
+        <option value="$PROJECT_DIR$/config/routes.php" />
+        <option value="$PROJECT_DIR$/components/Db.php" />
+        <option value="$PROJECT_DIR$/config/db_params.php" />
+        <option value="$PROJECT_DIR$/dev/socetCheck.php" />
+        <option value="$PROJECT_DIR$/dev/ws/socket.js" />
+        <option value="$PROJECT_DIR$/dev/ws/echows.php" />
+        <option value="$PROJECT_DIR$/dev/ws/.htaccess" />
+        <option value="$PROJECT_DIR$/dev/ws/echowsadmin.js" />
+        <option value="$PROJECT_DIR$/dev/ws/echowsadmin.php" />
+        <option value="$PROJECT_DIR$/dev/ws/echowslog.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/template/js/music.js" />
+        <option value="$PROJECT_DIR$/views/music/music_user.php" />
+        <option value="$PROJECT_DIR$/dev/socketMess.php" />
+        <option value="$PROJECT_DIR$/template/js/messages.js" />
+        <option value="$PROJECT_DIR$/template/js/login.js" />
+        <option value="$PROJECT_DIR$/template/js/main_login.js" />
+        <option value="$PROJECT_DIR$/views/music/music.php" />
+        <option value="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/gd.php" />
+        <option value="$PROJECT_DIR$/functions/user_edit.php" />
+        <option value="$PROJECT_DIR$/views/bottom.html" />
+        <option value="$PROJECT_DIR$/dev/ok_test.php" />
+        <option value="$PROJECT_DIR$/dev/odnoklassniki_sdk.php" />
+        <option value="$PROJECT_DIR$/dev/hero/hero.html" />
+        <option value="$PROJECT_DIR$/dev/hero/hero_main.js" />
+        <option value="$PROJECT_DIR$/views/login/login.php" />
+        <option value="$PROJECT_DIR$/dev/fb_test.php" />
+        <option value="$PROJECT_DIR$/functions/login.php" />
+        <option value="$PROJECT_DIR$/functions/newsfeed.php" />
+        <option value="$PROJECT_DIR$/views/news/index.php" />
+        <option value="$PROJECT_DIR$/models/News.php" />
+        <option value="$PROJECT_DIR$/views/user/user_settings.php" />
+        <option value="$PROJECT_DIR$/template/css/music.css" />
+        <option value="$PROJECT_DIR$/views/main/index.php" />
+        <option value="$PROJECT_DIR$/functions/user.php" />
+        <option value="$PROJECT_DIR$/template/js/audio_player.js" />
+        <option value="$PROJECT_DIR$/models/User.php" />
+        <option value="$PROJECT_DIR$/template/js/user.js" />
+        <option value="$PROJECT_DIR$/template/css/custom.css" />
+        <option value="$PROJECT_DIR$/template/js/navigation.js" />
+        <option value="$PROJECT_DIR$/views/user/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="." />
+      <path value="C:\php\pear" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="achievements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MVC site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Denis/PhpstormProjects/MVC site/template/js/navigation.js" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\template\achievements" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\dev" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\img" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\dev\ws" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\dev" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\img" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\template" />
+      <recent name="C:\Users\Denis\PhpstormProjects\MVC site\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MVC site/index.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/dev/test.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <option name="name" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="002c2b33-b8a5-4b1d-aa9d-d38ec93184a7" server_name="TEST">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.test.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b4ebcf-5721-412e-ace9-aa8372fc2b87" name="Default" comment="" />
+      <created>1441365052079</created>
+      <option name="number" value="Default" />
+      <updated>1441365052079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="1216" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18450184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20308483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32656828" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31288344" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32668713" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17776097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="19956" max-vertical-offset="76500">
+          <caret line="1194" column="17" selection-start-line="1194" selection-start-column="17" selection-end-line="1194" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/hero/hero_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21518987" vertical-offset="255" max-vertical-offset="4590">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/hero/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08491509" vertical-offset="0" max-vertical-offset="1001">
+          <caret line="5" column="95" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/search/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7763158" vertical-offset="627" max-vertical-offset="1615">
+          <caret line="87" column="74" selection-start-line="87" selection-start-column="51" selection-end-line="87" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/Authentication/AccessToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2465">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/FacebookApp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/Url/UrlDetectionInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1027">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/ok_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9291498" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/fb_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="510">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/NewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/newsfeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.465" vertical-offset="2068" max-vertical-offset="3502">
+          <caret line="154" column="9" selection-start-line="154" selection-start-column="9" selection-end-line="154" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15704153" vertical-offset="2990" max-vertical-offset="4386">
+          <caret line="190" column="69" selection-start-line="190" selection-start-column="69" selection-end-line="190" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/SignedRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.428" vertical-offset="1428" max-vertical-offset="5389">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/FacebookRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5339412" vertical-offset="663" max-vertical-offset="8755">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/FacebookBatchRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34186286" vertical-offset="2182" max-vertical-offset="4828">
+          <caret line="173" column="20" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/FacebookClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.796" vertical-offset="2944" max-vertical-offset="3944">
+          <caret line="244" column="36" selection-start-line="244" selection-start-column="36" selection-end-line="244" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/GraphNodes/GraphNodeFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6514691" vertical-offset="2230" max-vertical-offset="6392">
+          <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/Facebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0740743" vertical-offset="12" max-vertical-offset="9741">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3411306" vertical-offset="2880" max-vertical-offset="19142">
+          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user/user_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="11611">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bottom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18737476" vertical-offset="0" max-vertical-offset="998">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/avaUpload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79980373" vertical-offset="137" max-vertical-offset="1666">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3034" max-vertical-offset="18700">
+          <caret line="199" column="19" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1827" max-vertical-offset="37179">
+          <caret line="128" column="21" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook-sdk-v5/src/Facebook/FacebookResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.73077" vertical-offset="5651" max-vertical-offset="6681">
+          <caret line="407" column="34" selection-start-line="407" selection-start-column="34" selection-end-line="407" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="91.30769" vertical-offset="5655" max-vertical-offset="7446">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding>
+            <element signature="e#273#302#0#PHP" expanded="true" />
+            <marker date="1487099754828" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_newsfeed_settings..." />
+            <marker date="1487099754828" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_newsfeed_settings..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/imageResize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0560472" vertical-offset="1074" max-vertical-offset="2091">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/user_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3903638" vertical-offset="4108" max-vertical-offset="6630">
+          <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="48" />
+          <folding>
+            <marker date="1484495686175" expanded="true" signature="-1:-1" placeholder="SELECT id_us..users_info..." />
+            <marker date="1484495686175" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1484495686175" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1484495686175" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1484495686175" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8446602" vertical-offset="3522" max-vertical-offset="9605">
+          <caret line="156" column="61" selection-start-line="156" selection-start-column="61" selection-end-line="156" selection-end-column="61" />
+          <folding>
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="SELECT passw..users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="SELECT login..users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="SELECT login..users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1486998541757" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1486998541757" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/css/music.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33300492" vertical-offset="8485" max-vertical-offset="13515">
+          <caret line="519" column="24" selection-start-line="519" selection-start-column="22" selection-end-line="519" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="236" max-vertical-offset="11118">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.965585" vertical-offset="2957" max-vertical-offset="10574">
+          <caret line="471" column="75" selection-start-line="471" selection-start-column="75" selection-end-line="471" selection-end-column="75" />
+          <folding>
+            <marker date="1487085275420" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1487085275420" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1487085275420" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1487085275420" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/main/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32962587" vertical-offset="1442" max-vertical-offset="2431">
+          <caret line="104" column="50" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36726546" vertical-offset="3270" max-vertical-offset="14790">
+          <caret line="219" column="76" selection-start-line="219" selection-start-column="76" selection-end-line="219" selection-end-column="76" />
+          <folding>
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT login..users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT login..users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT login..users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="UPDATE users..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user_draft..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id_us..user_posts..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT link,..user_posts_images..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id_us..user_draft..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id_el..user_likes..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id_el..user_dizlikes..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id_el..user_fav..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_friendship_req..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_friendship_req..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_friendship_req..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_friendship..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_favorite..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_favorite..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_respect..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="SELECT id FR..user_respect..." />
+            <marker date="1492350272986" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1492350272986" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.107142" vertical-offset="255" max-vertical-offset="3315">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/audio_player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.892857" vertical-offset="0" max-vertical-offset="8330">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/advantage_quality.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6443">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1472734374635" expanded="false" signature="8122:8134" placeholder="..." />
+            <marker date="1472734374635" expanded="false" signature="8585:8599" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/bug_search.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/payment_help.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/advantage_creation.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17181" max-vertical-offset="18224">
+          <caret line="1066" column="3" selection-start-line="1066" selection-start-column="3" selection-end-line="1066" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/developer.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/brain.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.142858" vertical-offset="46721" max-vertical-offset="51731">
+          <caret line="2765" column="18" selection-start-line="2765" selection-start-column="18" selection-end-line="2765" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/achievements/from_begin.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/js/navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5757" max-vertical-offset="6817">
+          <caret line="381" column="36" selection-start-line="381" selection-start-column="36" selection-end-line="381" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.423077" vertical-offset="8282" max-vertical-offset="15725">
+          <caret line="528" column="17" selection-start-line="528" selection-start-column="17" selection-end-line="528" selection-end-column="17" />
+          <folding>
+            <marker date="1492365724985" expanded="true" signature="940:1001" placeholder="SELECT count..countries..." />
+            <marker date="1492365724985" expanded="true" signature="3082:3112" placeholder="SELECT * FRO..zodiac..." />
+            <marker date="1492365724985" expanded="true" signature="4115:4576" placeholder="SELECT * FRO..users..." />
+            <marker date="1492365724985" expanded="true" signature="5041:5066" placeholder="SELECT * FRO..user_search..." />
+            <marker date="1492365724985" expanded="true" signature="5553:5583" placeholder="SELECT * FRO..user_music_genre..." />
+            <marker date="1492365724985" expanded="true" signature="6064:6093" placeholder="SELECT * FRO..user_game_genre..." />
+            <marker date="1492365724985" expanded="true" signature="6569:6598" placeholder="SELECT * FRO..user_film_genre..." />
+            <marker date="1492365724985" expanded="true" signature="7077:7104" placeholder="SELECT * FRO..user_soc_type..." />
+            <marker date="1492365724985" expanded="true" signature="7594:7621" placeholder="SELECT * FRO..user_religion..." />
+            <marker date="1492365724985" expanded="true" signature="8115:8154" placeholder="SELECT * FRO..user_study..." />
+            <marker date="1492365724985" expanded="true" signature="8629:8667" placeholder="SELECT * FRO..user_work..." />
+            <marker date="1492365724985" expanded="true" signature="9187:9220" placeholder="SELECT * FRO..user_type..." />
+            <marker date="1492365724985" expanded="true" signature="9775:9818" placeholder="SELECT * FRO..administration_type..." />
+            <marker date="1492365724985" expanded="true" signature="10353:10455" placeholder="SELECT user_..user_friendship_req..." />
+            <marker date="1492365724985" expanded="true" signature="11449:11543" placeholder="SELECT id FR..user_friendship..." />
+            <marker date="1492365724985" expanded="true" signature="12398:12463" placeholder="SELECT id FR..user_favorite..." />
+            <marker date="1492365724985" expanded="true" signature="12975:13040" placeholder="SELECT id FR..user_respect..." />
+            <marker date="1492365724985" expanded="true" signature="13565:13613" placeholder="select count..user_respect..." />
+            <marker date="1492365724985" expanded="true" signature="13774:13847" placeholder="SELECT lang ..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="15786:15853" placeholder="SELECT * FRO..user_friendship..." />
+            <marker date="1492365724985" expanded="true" signature="16639:16712" placeholder="SELECT name,..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="16836:16895" placeholder="SELECT login..users..." />
+            <marker date="1492365724985" expanded="true" signature="17559:17614" placeholder="SELECT * FRO..user_achievements..." />
+            <marker date="1492365724985" expanded="true" signature="17956:18077" placeholder="SELECT name,..achievements..." />
+            <marker date="1492365724985" expanded="true" signature="19642:19725" placeholder="SELECT name,..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="19858:19940" placeholder="SELECT id_us..user_likes..." />
+            <marker date="1492365724985" expanded="true" signature="20076:20161" placeholder="SELECT id_us..user_dizlikes..." />
+            <marker date="1492365724985" expanded="true" signature="20299:20379" placeholder="SELECT id_us..user_fav..." />
+            <marker date="1492365724985" expanded="true" signature="20516:20585" placeholder="SELECT login..users..." />
+            <marker date="1492365724985" expanded="true" signature="20725:20771" placeholder="SELECT * FRO..user_posts_images..." />
+            <marker date="1492365724985" expanded="true" signature="21311:21353" placeholder="SELECT * FRO..user_likes..." />
+            <marker date="1492365724985" expanded="true" signature="21604:21693" placeholder="SELECT name,..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="21847:21922" placeholder="SELECT login..users..." />
+            <marker date="1492365724985" expanded="true" signature="22661:22706" placeholder="SELECT * FRO..user_dizlikes..." />
+            <marker date="1492365724985" expanded="true" signature="22969:23061" placeholder="SELECT name,..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="23224:23302" placeholder="SELECT login..users..." />
+            <marker date="1492365724985" expanded="true" signature="24090:24130" placeholder="SELECT * FRO..user_fav..." />
+            <marker date="1492365724985" expanded="true" signature="24375:24463" placeholder="SELECT name,..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="24614:24688" placeholder="SELECT login..users..." />
+            <marker date="1492365724985" expanded="true" signature="26744:26783" placeholder="SELECT * FRO..user_draft..." />
+            <marker date="1492365724985" expanded="true" signature="28525:28564" placeholder="SELECT * FRO..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="31456:31486" placeholder="SELECT * FRO..zodiac..." />
+            <marker date="1492365724985" expanded="true" signature="31660:31704" placeholder="SELECT count..countries..." />
+            <marker date="1492365724985" expanded="true" signature="33521:33594" placeholder="SELECT lang ..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="33693:33747" placeholder="SELECT * FRO..users_info..." />
+            <marker date="1492365724985" expanded="true" signature="36443:36469" placeholder="SELECT * FRO..relationship..." />
+            <marker date="1492365724985" expanded="true" signature="36937:36962" placeholder="SELECT * FRO..user_gender..." />
+            <marker date="1492365724985" expanded="true" signature="37342:37367" placeholder="SELECT * FRO..orientation..." />
+            <marker date="1492365724985" expanded="true" signature="37749:37769" placeholder="SELECT * FRO..habits..." />
+            <marker date="1492365724985" expanded="true" signature="38146:38171" placeholder="SELECT * FRO..preferences..." />
+            <marker date="1492365724985" expanded="true" signature="38555:38578" placeholder="SELECT * FRO..countries..." />
+            <marker date="1492365724985" expanded="true" signature="38969:38994" placeholder="SELECT * FRO..user_search..." />
+            <marker date="1492365724985" expanded="true" signature="39373:39403" placeholder="SELECT * FRO..user_music_genre..." />
+            <marker date="1492365724985" expanded="true" signature="39772:39801" placeholder="SELECT * FRO..user_game_genre..." />
+            <marker date="1492365724985" expanded="true" signature="40163:40192" placeholder="SELECT * FRO..user_film_genre..." />
+            <marker date="1492365724985" expanded="true" signature="40557:40584" placeholder="SELECT * FRO..user_soc_type..." />
+            <marker date="1492365724985" expanded="true" signature="40960:40987" placeholder="SELECT * FRO..user_religion..." />
+            <marker date="1492365724985" expanded="true" signature="41371:41410" placeholder="SELECT * FRO..user_study..." />
+            <marker date="1492365724985" expanded="true" signature="41933:41971" placeholder="SELECT * FRO..user_work..." />
+            <marker date="1492365724985" expanded="true" signature="42523:42546" placeholder="SELECT * FRO..user_type..." />
+            <marker date="1492365724985" expanded="true" signature="43457:43490" placeholder="SELECT * FRO..administration_type..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3604">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9282103" vertical-offset="204" max-vertical-offset="8959">
+          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

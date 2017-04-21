@@ -1,0 +1,7 @@
+AddDefaultCharset utf-8
+
+RewriteEngine on
+
+
+RewriteCond %{REQUEST_URI} !^/dev/ws.*$
+RewriteCond %{REQUEST_FILENAME} !^/dev/ws/echowsadmin.html.*$

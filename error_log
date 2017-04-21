@@ -1,0 +1,389 @@
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 40
+[31-May-2016 08:21:29 UTC] PHP Notice:  Undefined variable: uri in /home/d28972/public_html/linepuls.ru/components/Router.php on line 43
+[31-May-2016 08:30:27 UTC] PHP Fatal error:  Class '%2FsearchController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[31-May-2016 08:32:29 UTC] PHP Fatal error:  Class '%2FloginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[31-May-2016 08:32:32 UTC] PHP Fatal error:  Class '%2FsearchController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[02-Jun-2016 05:11:39 UTC] PHP Notice:  Undefined index: urlImg in /home/d28972/public_html/linepuls.ru/functions/user.php on line 244
+[02-Jun-2016 16:24:59 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[03-Jun-2016 18:20:50 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[05-Jun-2016 00:00:59 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[05-Jun-2016 08:42:29 UTC] PHP Notice:  Undefined index: urlImg in /home/d28972/public_html/linepuls.ru/functions/user.php on line 244
+[07-Jun-2016 09:53:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'd28972'@'localhost' (using password: YES)' in /home/d28972/public_html/linepuls.ru/functions/user.php:17
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/user.php(17): PDO->__construct('mysql:host=loca...', 'd28972', 'cqh8bjn3', Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/user.php(36): connect_to()
+#2 /home/d28972/public_html/linepuls.ru/index.php(12): user_active()
+#3 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/user.php on line 17
+[07-Jun-2016 09:53:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'd28972'@'localhost' (using password: YES)' in /home/d28972/public_html/linepuls.ru/functions/user.php:17
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/user.php(17): PDO->__construct('mysql:host=loca...', 'd28972', 'cqh8bjn3', Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/user.php(36): connect_to()
+#2 /home/d28972/public_html/linepuls.ru/index.php(12): user_active()
+#3 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/user.php on line 17
+[07-Jun-2016 09:53:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'd28972'@'localhost' (using password: YES)' in /home/d28972/public_html/linepuls.ru/functions/user.php:17
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/user.php(17): PDO->__construct('mysql:host=loca...', 'd28972', 'cqh8bjn3', Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/user.php(36): connect_to()
+#2 /home/d28972/public_html/linepuls.ru/index.php(12): user_active()
+#3 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/user.php on line 17
+[07-Jun-2016 09:53:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'd28972'@'localhost' (using password: YES)' in /home/d28972/public_html/linepuls.ru/functions/user.php:17
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/user.php(17): PDO->__construct('mysql:host=loca...', 'd28972', 'cqh8bjn3', Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/user.php(36): connect_to()
+#2 /home/d28972/public_html/linepuls.ru/index.php(12): user_active()
+#3 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/user.php on line 17
+[07-Jun-2016 12:40:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 8
+[07-Jun-2016 14:13:38 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 27
+[07-Jun-2016 14:16:23 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 27
+[07-Jun-2016 14:16:39 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 27
+[07-Jun-2016 14:16:40 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 27
+[07-Jun-2016 16:11:11 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:12 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:13 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:42 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:43 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:43 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:11:59 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:12:35 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:12:53 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:12:54 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:13:20 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:13:21 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:06 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:07 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:07 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:08 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:10 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:14 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:17 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:14:17 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:15:08 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:15:10 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:15:10 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:15:10 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:15:11 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:19:03 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:19:39 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:19:47 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:19:48 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:19:48 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:19:48 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:19:54 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:02 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:04 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:49 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:49 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:49 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:50 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:52 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:20:58 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:21:21 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:21:26 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:22:09 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 28
+[07-Jun-2016 16:22:23 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 29
+[07-Jun-2016 16:37:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 60
+[07-Jun-2016 16:37:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 60
+[07-Jun-2016 16:40:58 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 77
+[07-Jun-2016 16:40:59 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 77
+[07-Jun-2016 18:55:57 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[08-Jun-2016 12:05:46 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Messages.php on line 27
+[09-Jun-2016 10:17:16 UTC] PHP Fatal error:  Cannot redeclare connect_to() (previously declared in /home/d28972/public_html/linepuls.ru/functions/user.php:11) in /home/d28972/public_html/linepuls.ru/functions/menu.php on line 11
+[09-Jun-2016 10:17:17 UTC] PHP Fatal error:  Cannot redeclare connect_to() (previously declared in /home/d28972/public_html/linepuls.ru/functions/user.php:11) in /home/d28972/public_html/linepuls.ru/functions/menu.php on line 11
+[09-Jun-2016 10:43:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/d28972/public_html/linepuls.ru/functions/menu.php on line 12
+[09-Jun-2016 17:57:07 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[09-Jun-2016 21:53:17 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[10-Jun-2016 05:01:39 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[11-Jun-2016 08:26:30 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[14-Jun-2016 16:53:16 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[18-Jun-2016 05:02:56 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[28-Jun-2016 12:12:00 UTC] PHP Fatal error:  Class 'Login?lg_userController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[05-Jul-2016 04:59:03 UTC] PHP Fatal error:  Class 'Login?lg_userController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[12-Jul-2016 01:51:22 UTC] PHP Fatal error:  Class 'Login?lg_userController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[15-Jul-2016 19:44:35 UTC] PHP Fatal error:  Class 'AdministratorController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[19-Jul-2016 10:02:52 UTC] PHP Notice:  Undefined index: login in /home/d28972/public_html/linepuls.ru/views/menu.php on line 23
+[19-Jul-2016 10:02:52 UTC] PHP Notice:  Undefined index: uid in /home/d28972/public_html/linepuls.ru/views/menu.php on line 23
+[19-Jul-2016 10:02:52 UTC] PHP Notice:  Undefined index: uid in /home/d28972/public_html/linepuls.ru/views/music/music.php on line 78
+[25-Jul-2016 07:41:06 UTC] PHP Fatal error:  Call to undefined function whoare() in /home/d28972/public_html/linepuls.ru/views/login/login.php on line 4
+[25-Jul-2016 07:44:15 UTC] PHP Fatal error:  Call to undefined function whoare() in /home/d28972/public_html/linepuls.ru/views/login/login.php on line 4
+[25-Jul-2016 07:44:44 UTC] PHP Fatal error:  Call to undefined function connect() in /home/d28972/public_html/linepuls.ru/functions/login.php on line 12
+[25-Jul-2016 07:44:45 UTC] PHP Fatal error:  Call to undefined function connect() in /home/d28972/public_html/linepuls.ru/functions/login.php on line 12
+[25-Jul-2016 07:45:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:46:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:47:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:47:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:47:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:47:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Can't initialize character set  (path: /usr/share/mysql/charsets/)' in /home/d28972/public_html/linepuls.ru/functions/login.php:18
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/functions/login.php(18): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/d28972/public_html/linepuls.ru/functions/login.php(25): connect()
+#2 /home/d28972/public_html/linepuls.ru/views/login/login.php(4): whoAre()
+#3 /home/d28972/public_html/linepuls.ru/controllers/LoginController.php(18): require_once('/home/d28972/pu...')
+#4 [internal function]: LoginController->actionLogin()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/functions/login.php on line 18
+[25-Jul-2016 07:49:55 UTC] PHP Fatal error:  Call to undefined function connect() in /home/d28972/public_html/linepuls.ru/models/Login.php on line 45
+[25-Jul-2016 07:50:04 UTC] PHP Fatal error:  Call to undefined function whoare() in /home/d28972/public_html/linepuls.ru/views/login/login.php on line 4
+[25-Jul-2016 21:12:17 UTC] PHP Notice:  Undefined index: urlImg in /home/d28972/public_html/linepuls.ru/functions/user.php on line 245
+[26-Jul-2016 17:29:33 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[27-Jul-2016 07:40:26 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 65
+[03-Aug-2016 06:02:29 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/d28972/public_html/linepuls.ru/views/user/index.php on line 253
+[03-Aug-2016 06:27:47 UTC] PHP Parse error:  syntax error, unexpected 'ac' (T_STRING) in /home/d28972/public_html/linepuls.ru/models/User.php on line 498
+[03-Aug-2016 06:27:49 UTC] PHP Parse error:  syntax error, unexpected 'ac' (T_STRING) in /home/d28972/public_html/linepuls.ru/models/User.php on line 498
+[03-Aug-2016 08:11:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac(NULL)
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:11:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac(NULL)
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:11:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac(NULL)
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:12:33 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:13:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac(NULL)
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:14:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:14:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:14:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:14:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:51
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(51): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(132): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(173): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 51
+[03-Aug-2016 08:15:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:52
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(52): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(134): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(175): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:52
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(52): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(134): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(175): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:52
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(52): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(134): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(175): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:52
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(52): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(134): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(175): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:40 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:41 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:16:42 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 52
+[03-Aug-2016 08:17:36 UTC] PHP Fatal error:  Cannot redeclare zodiac() (previously declared in /home/d28972/public_html/linepuls.ru/models/Search.php:27) in /home/d28972/public_html/linepuls.ru/models/Search.php on line 100
+[03-Aug-2016 08:17:37 UTC] PHP Fatal error:  Cannot redeclare zodiac() (previously declared in /home/d28972/public_html/linepuls.ru/models/Search.php:27) in /home/d28972/public_html/linepuls.ru/models/Search.php on line 100
+[03-Aug-2016 08:17:37 UTC] PHP Fatal error:  Cannot redeclare zodiac() (previously declared in /home/d28972/public_html/linepuls.ru/models/Search.php:27) in /home/d28972/public_html/linepuls.ru/models/Search.php on line 100
+[03-Aug-2016 08:17:38 UTC] PHP Fatal error:  Cannot redeclare zodiac() (previously declared in /home/d28972/public_html/linepuls.ru/models/Search.php:27) in /home/d28972/public_html/linepuls.ru/models/Search.php on line 100
+[03-Aug-2016 08:17:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:90
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(90): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(136): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(177): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 08:17:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/d28972/public_html/linepuls.ru/models/Search.php:90
+Stack trace:
+#0 /home/d28972/public_html/linepuls.ru/models/Search.php(90): PDO->query('SELECT name,sym...')
+#1 /home/d28972/public_html/linepuls.ru/models/Search.php(136): zodiac('0000-00-00')
+#2 /home/d28972/public_html/linepuls.ru/models/Search.php(177): getUserInfo(Object(PDOStatement))
+#3 /home/d28972/public_html/linepuls.ru/controllers/SearchController.php(25): Search::getUserById(NULL)
+#4 [internal function]: SearchController->actionView()
+#5 /home/d28972/public_html/linepuls.ru/components/Router.php(68): call_user_func_array(Array, Array)
+#6 /home/d28972/public_html/linepuls.ru/index.php(32): Router->run()
+#7 {main}
+  thrown in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 08:17:55 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 08:18:18 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 107
+[03-Aug-2016 08:18:25 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 08:18:32 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 08:19:27 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 90
+[03-Aug-2016 09:29:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/d28972/public_html/linepuls.ru/models/Search.php on line 63
+[03-Aug-2016 09:29:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/d28972/public_html/linepuls.ru/models/Search.php on line 63
+[03-Aug-2016 12:50:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/d28972/public_html/linepuls.ru/views/user/index.php on line 274
+[03-Aug-2016 12:50:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/d28972/public_html/linepuls.ru/views/user/index.php on line 274
+[03-Aug-2016 16:48:48 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 121
+[03-Aug-2016 16:48:51 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 121
+[04-Aug-2016 10:30:58 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/d28972/public_html/linepuls.ru/models/User.php on line 41
+[09-Aug-2016 07:11:52 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/d28972/public_html/linepuls.ru/models/User.php on line 107
+[09-Aug-2016 07:15:37 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/d28972/public_html/linepuls.ru/models/User.php on line 107
+[09-Aug-2016 07:15:50 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/d28972/public_html/linepuls.ru/models/User.php on line 107
+[09-Aug-2016 07:15:58 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/d28972/public_html/linepuls.ru/models/User.php on line 107
+[11-Aug-2016 10:35:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/d28972/public_html/linepuls.ru/views/user/index.php on line 434
+[16-Aug-2016 19:16:15 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 121
+[16-Aug-2016 19:16:17 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/d28972/public_html/linepuls.ru/models/Search.php on line 121
+[17-Aug-2016 18:22:37 UTC] PHP Fatal error:  Class 'SettingsController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[17-Aug-2016 18:24:28 UTC] PHP Fatal error:  Class 'SettingsController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[17-Aug-2016 18:25:41 UTC] PHP Fatal error:  Class 'SettingsController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[17-Aug-2016 18:26:51 UTC] PHP Fatal error:  Class 'SettingsController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[17-Aug-2016 18:27:41 UTC] PHP Fatal error:  Class 'SettingsController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[22-Aug-2016 21:57:12 UTC] PHP Fatal error:  Class 'Login?reg_fullname=Hideki&reg_surname=Hatoru&reg_userController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[25-Aug-2016 07:21:19 UTC] PHP Fatal error:  Class 'Wp-loginController' not found in /home/d28972/public_html/linepuls.ru/components/Router.php on line 72
+[25-Aug-2016 11:43:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/d28972/public_html/linepuls.ru/views/news/index.php on line 110
+[25-Aug-2016 11:48:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/d28972/public_html/linepuls.ru/views/news/index.php on line 115
